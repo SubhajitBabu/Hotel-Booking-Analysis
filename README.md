@@ -301,39 +301,33 @@ Upload the corresponding PNG screenshots into your repository's `screenshots` fo
 
 ### 1. Adani Hotel Dashboard
 
-![alt text](<Adani Hotel.png>)
+<img width="1368" height="740" alt="Adani Hotel" src="https://github.com/user-attachments/assets/02e3810c-a514-4072-a78f-61407d124408" />
+
 
 ### 2. Airport Hotel Dashboard
 
-![alt text](<Airport Hotel.png>)
+<img width="1323" height="745" alt="Airport Hotel" src="https://github.com/user-attachments/assets/42330588-91f4-4408-b57b-508e084e0b8a" />
+
 
 ### 3. CityLine Hotel Dashboard
 
-![alt text](<CityLine Hotel.png>)
+<img width="1326" height="741" alt="CityLine Hotel" src="https://github.com/user-attachments/assets/1062a7b5-1f5f-4f09-bb4b-bec24b2a15e3" />
+
 
 ### 4. India International Hotel Dashboard
 
-![alt text](<Heaven Hotel.png>)
+<img width="1327" height="740" alt="Heaven Hotel" src="https://github.com/user-attachments/assets/0f794b21-21ee-4720-82a9-0843b7efff12" />
+
 
 ### 5. Heaven Hotel Dashboard
 
-![alt text](<India International Hotel.png>)
+<img width="1321" height="737" alt="India International Hotel" src="https://github.com/user-attachments/assets/35ee416d-fae4-4b6d-8210-27e4d43e0207" />
+
 
 ### 6. Sunshine Hotel Dashboard
 
-![alt text](<Sunshine Hotel.png>)
+<img width="1322" height="735" alt="Sunshine Hotel" src="https://github.com/user-attachments/assets/3c64a8b4-b2e8-4928-b67f-cb063c44c5f0" />
 
----
-
-## 📄 Full Dashboard Report
-
-A PDF version of the dashboard screenshots can also be provided for convenient viewing at higher resolution.
-
-[Dashboard PDF](c:/Users/chatt/Downloads/Hotel_Booking_Analysis.pdf)
-
-
-
----
 
 ## 💡 Business Questions Addressed
 
