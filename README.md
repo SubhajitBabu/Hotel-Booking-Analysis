@@ -316,12 +316,13 @@ Upload the corresponding PNG screenshots into your repository's `screenshots` fo
 
 ### 4. India International Hotel Dashboard
 
-<img width="1327" height="740" alt="Heaven Hotel" src="https://github.com/user-attachments/assets/0f794b21-21ee-4720-82a9-0843b7efff12" />
+<img width="1321" height="737" alt="India International Hotel" src="https://github.com/user-attachments/assets/35ee416d-fae4-4b6d-8210-27e4d43e0207" />
 
 
 ### 5. Heaven Hotel Dashboard
 
-<img width="1321" height="737" alt="India International Hotel" src="https://github.com/user-attachments/assets/35ee416d-fae4-4b6d-8210-27e4d43e0207" />
+<img width="1327" height="740" alt="Heaven Hotel" src="https://github.com/user-attachments/assets/0f794b21-21ee-4720-82a9-0843b7efff12" />
+
 
 
 ### 6. Sunshine Hotel Dashboard
