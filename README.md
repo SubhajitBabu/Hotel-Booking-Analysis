@@ -301,27 +301,33 @@ Upload the corresponding PNG screenshots into your repository's `screenshots` fo
 
 ### 1. Adani Hotel Dashboard
 
-![alt text](Adani_Hotel.png)
+<img width="975" height="552" alt="Adani_Hotel" src="https://github.com/user-attachments/assets/df93994e-f748-4bd4-b778-0fa4a99edc8b" />
+
 
 ### 2. Airport Hotel Dashboard
 
-![alt text](Airport_Hotel.png)
+<img width="967" height="548" alt="Airport_Hotel" src="https://github.com/user-attachments/assets/f8fb111e-bbec-4e88-8ce2-a3772c054e21" />
+
 
 ### 3. CityLine Hotel Dashboard
 
-![alt text](Cityline_Hotel.png)
+<img width="968" height="547" alt="Cityline_Hotel" src="https://github.com/user-attachments/assets/8d021e03-e0ab-46f2-a892-f473628bc391" />
+
 
 ### 4. India International Hotel Dashboard
 
-![alt text](India_International_Hotel.png)
+<img width="968" height="552" alt="India_International_Hotel" src="https://github.com/user-attachments/assets/24b61866-a240-477b-b4a0-2e4fa031815c" />
+
 
 ### 5. Heaven Hotel Dashboard
 
-![alt text](Heaven_Hotel.png)
+<img width="976" height="559" alt="Heaven_Hotel" src="https://github.com/user-attachments/assets/5d420230-42d3-4cbc-9c28-37932b42e415" />
+
 
 ### 6. Sunshine Hotel Dashboard
 
-![alt text](Sunshine_Hotel.png)
+![Uploading Sunshine_Hotel.png…]()
+
 
 ---
 
