@@ -326,8 +326,7 @@ Upload the corresponding PNG screenshots into your repository's `screenshots` fo
 
 ### 6. Sunshine Hotel Dashboard
 
-![Uploading Sunshine_Hotel.png…]()
-
+<img width="985" height="559" alt="Sunshine_Hotel" src="https://github.com/user-attachments/assets/770c23f8-41fd-4743-bfaf-b5cc8a1962bf" />
 
 ---
 
